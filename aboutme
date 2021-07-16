@@ -1,0 +1,16 @@
+greeting = '👋 Hi, I’m @KRYL0630 ,, My real name is Eduardo. i'm 23 yo and i'm from Colombia'
+print(greeting)
+def interests():
+    print('JAVA, JAVASCRIPT, SQL, PYTHON')
+interests()
+----------------------------------------------------------------------------------------------
+let learning = (a,b,c,d,e,f) => alert(a,b,c,d,e,f)
+learning('JAVA','PYTHON','SQL','JAVASCRIPT','HTML','CSS')
+---------------------------------------------------------------------------
+let contact =[
+    email = 'eduardo301997@gmail.com',
+    number = 573173927733
+]
+console.log(contact)
+
+
