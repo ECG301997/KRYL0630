@@ -1,4 +1,4 @@
-greeting = '👋 Hi, I’m @KRYL0630 ,, My real name is Eduardo. i'm 23 yo and i'm from Colombia'
+greeting = '👋 Hi, I’m @KRYL0630 ,, My real name is Eduardo. i'm 25 yo and i'm from Colombia'
 print(greeting)
 def interests():
     print('JAVA, JAVASCRIPT, SQL, PYTHON')
